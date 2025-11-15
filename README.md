@@ -1,103 +1,83 @@
-# 👋 Bonjour, je suis Samih — Explorateur Tech & Développeur polyvalent
+## 👋 Hello, I'm Samih — Tech Explorer & Software Developer
 
-Je suis un développeur passionné par la compréhension profonde des systèmes :  
-du C bas niveau (École 42), aux microservices Docker, en passant par les moteurs 3D, la cybersécurité et les architectures web modernes.
+I'm a developer driven by a desire to understand how things work under the hood:  
+from low-level C programming (42), to backend architectures, Dockerized microservices, cybersecurity challenges, 3D rendering engines, and hardware tinkering.
 
-Mon approche : **désassembler, comprendre, reconstruire**.  
-Entre 2021 et 2025, j’ai consacré la majorité de mon temps à explorer l’informatique sous toutes ses formes :  
-moteurs 3D, protocoles, CTF, backend, MERN, électronique, Raspberry Pi, micro-soudure, projets pédagogiques…  
-Aujourd’hui, je cherche à mettre cette polyvalence au service d’une équipe IT.
+My approach: **take it apart → understand → rebuild it better**.  
+Between 2021 and 2025, I spent most of my time exploring software engineering in all its forms:  
+rendering engines, protocols, CTFs, microservices, MERN apps, Raspberry Pi, electronics, and various technical prototypes.
 
----
-
-## 🧭 Ce que j’explore
-
-- 🧠 **Développement bas niveau & algorithmie**  
-  Projets École 42 (C, MiniRT, minishell, gestion mémoire, parsing…)
-
-- 🛡️ **Cybersécurité / CTF**  
-  +1200 points Root-Me — objectif : *badge newbie* dans toutes les disciplines
-
-- 🧱 **Microservices & backend**  
-  Python, NodeJS, Docker, API, archi orientée services
-
-- 🪄 **Front & Web moderne**  
-  MERN, OAuth 2.1, React, routing, state management
-
-- 🔧 **Projets Maker / Hardware**  
-  Arduino, Raspberry Pi, impression 3D, microsoudure
-
-- 🎮 **Moteurs 3D & rendu**  
-  Prototypes maison (projection, matrices, collisions)
+Today, I'm looking for a role where I can bring my curiosity, versatility, and engineering mindset to a real team.
 
 ---
 
-## 🚀 Projets à voir en premier
+## 🧭 What I explore
+- 🧠 Low-level development & algorithms (C, 42 projects: MiniRT, minishell…)  
+- 🛡️ Cybersecurity & CTF (1200+ Root-Me points)  
+- 🧱 Microservices & backend engineering (NodeJS, Python, Docker)  
+- 🪄 Modern web development (MERN, JWT, OAuth2.1)  
+- 🎮 3D rendering & engine prototypes  
+- 🔧 Hardware / Maker projects (Arduino, Raspberry Pi, 3D printing)
 
-### 🔹 Simple Block — Mini moteur 3D maison  
-Moteur 3D minimal en JavaScript (projection, caméra, collisions).  
+---
+
+## 🚀 Key Projects
+### 🔹 Simple Block — Custom 3D Engine  
+JavaScript • Projection • Camera • Collisions  
 ➡️ https://github.com/SamihOuague/simple_blocks
 
-### 🔹 CryptoBot MicroServices — Architecture Python + Docker  
-Microservices conteneurisés, bot trading, API, orchestration.  
-➡️ https://github.com/SamihOuague/CryptoBot_MicroServices
+### 🔹 BinanceBot MicroServices — Distributed Architecture  
+NodeJS + Python • Microservices • Docker • Binance API  
+➡️ https://github.com/SamihOuague/BinanceBot_MicroServices
 
-### 🔹 OAuth2.1 MERN Demo — Auth sécurisée moderne  
-Implémentation d’un flux OAuth 2.1 avec stack MERN.  
+### 🔹 OAuth2.1 MERN Demo — Modern Secure Auth  
+MERN • JWT • OAuth2.1 flows  
 ➡️ https://github.com/SamihOuague/OAuth2.1_MERN_Demo
 
-### 🔹 MiniRT (42) — Raytracer en C  
-Maths 3D, rendu, parsing, calculs vectoriels.  
+### 🔹 MiniRT — Raytracer in C (42)  
+Ray-object intersections • lights • rendering  
 ➡️ https://github.com/SamihOuague/minirt42
 
-### 🔹 minishell (42) — Shell Unix minimal  
-Process, signaux, parsing, pipes, redirections.  
+### 🔹 minishell — Minimal UNIX Shell  
+fork/exec • pipes • redirections • signals  
 ➡️ https://github.com/SamihOuague/minishell42
 
 ### 🔹 Portfolio  
-Présentation de mon parcours, projets et objectifs.  
 ➡️ https://samihouague.github.io
 
 ---
 
-## 🛠️ Compétences principales
+## 🛠️ Skills
+### Languages  
+C, Python, JavaScript, NodeJS, Bash, SQL, MongoDB  
 
-### **Langages**
-C, Python, JavaScript, NodeJS, Bash, C++, SQL, MongoDB
+### Tools & Tech  
+Docker, Express, React, JWT/OAuth, Git, Linux, Websocket, Canvas  
 
-### **Tech & Outils**
-Docker, Express, React, JWT/OAuth, Git, Linux, Websocket, Canvas API
-
-### **Concepts & Systèmes**
-Microservices, moteurs 3D, architecture logicielle, CTF, algorithmie, réseaux, systèmes Unix
-
-### **Maker**
-Arduino, Raspberry Pi, impression 3D, prototypage électronique
+### Key Concepts  
+Microservices, 3D engines, algorithms, cybersecurity, Unix systems, backend architectures  
 
 ---
 
-## 🎯 Ce que je recherche
+## 🎯 What I’m looking for
+A role where I can:  
+- solve real-world engineering problems,  
+- keep learning,  
+- contribute to serious technical projects,  
+- bring my versatility and curiosity to the team.
 
-Un poste où je peux :
-
-- apprendre en continu,  
-- résoudre des problèmes techniques concrets,  
-- contribuer à des projets sérieux et structurés,  
-- rester dans une logique d’exploration et de progression.
-
-Intéressé par :  
-**Développement backend, systèmes, outils internes, rendering, cybersécurité junior, support avancé, ou postes polyvalents tech.**
+Looking for roles in:  
+**Backend development, systems, internal tools, rendering, advanced support, junior cybersecurity.**
 
 ---
 
-## 📬 Me contacter
-
-- 💼 LinkedIn : https://www.linkedin.com/in/samih-ouague  
-- 📧 Email : ouaguenouni.samih@gmail.com  
-- 🛡️ Root-Me : https://www.root-me.org/souaguen  
-- 🌐 Portfolio : https://samihouague.github.io
+## 📬 Contact
+- 💼 LinkedIn: https://www.linkedin.com/in/samih-ouague  
+- 📧 Email: ouaguenouni.samih@gmail.com  
+- 🛡️ Root-Me: https://www.root-me.org/souaguen  
+- 🌐 Portfolio: https://samihouague.github.io  
 
 ---
 
-Merci pour votre visite 👋  
-N’hésitez pas à explorer mes projets ou à me contacter !
+Thanks for visiting 👋  
+Feel free to explore my projects or reach out!
